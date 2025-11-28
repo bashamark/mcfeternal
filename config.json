@@ -27,7 +27,7 @@
   "webview": [
     {
       "web_url": "https://mcfchat-469b5.web.app/",
-      "web_toolbar": "false"
+      "web_toolbar": "true"
     }
   ],
   "settings": [
