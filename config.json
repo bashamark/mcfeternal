@@ -18,15 +18,15 @@
     {
       "channel_name": "Eternal TV Live",
       "channel_source": "url",
-      "channel_url": "https://www.youtube.com/watch?v=xXWyvLibgOI",
+      "channel_url": "https://stream.hydeinnovations.com/tvwest-flussonic/tracks-v2a1/mono.m3u8",
       "channel_thumbnail": "https://i.ytimg.com/vi/bb26zGszBhM/hq720.jpg",
       "channel_description": "<p>Welcome to Eternal Life TV Stream.</p>",
-      "channel_vast_ads_tag_url": ""
+      "channel_vast_ads_tag_url": "https://stream.hydeinnovations.com/tvwest-flussonic/tracks-v2a1/mono.m3u8"
     }
   ],
   "webview": [
     {
-      "web_url": "https://codecanyon.net/item/the-single-stream-single-radio-live-tv-webview-app/59189083",
+      "web_url": "https://mcfchat-469b5.web.app/",
       "web_toolbar": "false"
     }
   ],
