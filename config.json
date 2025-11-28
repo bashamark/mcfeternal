@@ -4,11 +4,11 @@
       "radio_name": "MCF Radio",
       "radio_genre": "Food for your soul",
       "radio_url": "https://gospelradio.webusite.com/listen/mcf_casterfm/radio.mp3",
-      "radio_image_url": "https://raw.githubusercontent.com/envato-market/codecanyon/solodroid/the-single-stream/radio-image.jpg",
+      "radio_image_url": "https://i.ibb.co/PvVPftjF/eternallife.jpg",
       "radio_background": "false",
       "radio_background_url": "https://raw.githubusercontent.com/envato-market/codecanyon/solodroid/the-single-stream/radio-background.jpg",
       "blur_radio_background": "true",
-      "song_metadata": "true",
+      "song_metadata": "false",
       "image_album_art": "false",
       "image_album_art_dynamic_background": "true",
       "auto_play": "false"
@@ -19,7 +19,7 @@
       "channel_name": "Eternal TV Live",
       "channel_source": "url",
       "channel_url": "https://live-tv.mfc-streaming-service.online/hls/orion_west.m3u8",
-      "channel_thumbnail": "hhttps://i.ibb.co/PvVPftjF/eternallife.jpg",
+      "channel_thumbnail": "https://i.ibb.co/PvVPftjF/eternallife.jpg",
       "channel_description": "<p>Welcome to Eternal Life TV Stream.</p>",
       "channel_vast_ads_tag_url": "https://stream.hydeinnovations.com/tvwest-flussonic/tracks-v2a1/mono.m3u8"
     }
@@ -42,7 +42,7 @@
   ],
   "ads": [
     {
-      "ad_status": "1",
+      "ad_status": "0",
       "main_ads": "admob",
       "backup_ads": "none",
       "admob_banner_id": "ca-app-pub-3940256099942544/9214589741",
