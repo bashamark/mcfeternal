@@ -35,12 +35,12 @@
   "radio": [
     {
       "auto_play": "true",
-      "radio_url": "https://gospelradio.webusite.com/listen/mcf_casterfm/radio.mp3",
-      "radio_name": "MCF Radio",
-      "radio_genre": "Food for your soul",
+      "radio_url": "https://c22.radioboss.fm:18040/stream",
+      "radio_name": "EMC Radio",
+      "radio_genre": "The Voice of Abundance",
       "song_metadata": "false",
       "image_album_art": "false",
-      "radio_image_url": "https://i.ibb.co/MDcY0JHY/ic-launcher-1.png",
+      "radio_image_url": "https://i.ibb.co/Z60JV7Lt/emc-logo-500.jpg",
       "radio_background": "false",
       "radio_background_url": "https://raw.githubusercontent.com/envato-market/codecanyon/solodroid/the-single-stream/radio-background.jpg",
       "blur_radio_background": "true",
@@ -50,11 +50,11 @@
   
   "video_streams": [
     {
-      "channel_name": "Eternal TV Live",
+      "channel_name": "EBN TV",
       "channel_source": "youtube",
       "channel_url": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live",
       "channel_thumbnail": "https://i.ibb.co/PvVPftjF/eternallife.jpg",
-      "channel_description": "<p>Welcome to Eternal Life TV Stream.</p>",
+      "channel_description": "<p>Welcome to EBN TV Stream.</p>",
       "channel_vast_ads_tag_url": ""
     },
     {
