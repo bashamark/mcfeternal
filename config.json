@@ -40,20 +40,20 @@
             "radio_genre": "The Voice of Abundance",
             "song_metadata": "true",
             "image_album_art": "false",
-            "radio_image_url": "https://i.ibb.co/MDcY0JHY/ic-launcher-1.png",
+            "radio_image_url": "https://i.ibb.co/Z60JV7Lt/emc-logo-500.jpg",
             "radio_background": "false",
-            "radio_background_url": "https://raw.githubusercontent.com/envato-market/codecanyon/solodroid/the-single-stream/radio-background.jpg",
+            "radio_background_url": "https://i.ibb.co/HLPggmF9/radio-background.jpg",
             "blur_radio_background": "true",
             "image_album_art_dynamic_background": "true"
         }
     ],
     "video": [
         {
-            "channel_url": "https://www.youtube.com/channel/UCgrkxPaFvtVDBdi0_3fKExg/live",
-            "channel_name": "Eternal TV Live",
+            "channel_url": "https://www.youtube.com/channel/UCaw5bydxwBSQgxxFWJdVjOA/live",
+            "channel_name": "EBN Network",
             "channel_source": "youtube",
-            "channel_thumbnail": "https://i.ibb.co/PvVPftjF/eternallife.jpg",
-            "channel_description": "<p>Welcome to Eternal Life TV Stream.</p>",
+            "channel_thumbnail": "https://i.ibb.co/wZWgwzCn/ebn.jpg",
+            "channel_description": "<p>Welcome to Eden Broadcasting Network.</p>",
             "channel_vast_ads_tag_url": "https://stream.hydeinnovations.com/tvwest-flussonic/tracks-v2a1/mono.m3u8"
         }
     ],
