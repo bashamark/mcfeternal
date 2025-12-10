@@ -36,9 +36,9 @@
         {
             "auto_play": "true",
             "radio_url": "https://c22.radioboss.fm:18040/stream",
-            "radio_name": "MCF Radio",
-            "radio_genre": "Food for your soul",
-            "song_metadata": "false",
+            "radio_name": "EMC Radio",
+            "radio_genre": "The Voice of Abundance",
+            "song_metadata": "true",
             "image_album_art": "false",
             "radio_image_url": "https://i.ibb.co/MDcY0JHY/ic-launcher-1.png",
             "radio_background": "false",
