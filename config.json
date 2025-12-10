@@ -1,98 +1,98 @@
 {
-    "ads": [
-        {
-            "main_ads": "admob",
-            "ad_status": "0",
-            "backup_ads": "none",
-            "fan_banner_id": "YOUR_PLACEMENT_ID",
-            "fan_native_id": "YOUR_PLACEMENT_ID",
-            "unity_game_id": "4089993",
-            "admob_banner_id": "ca-app-pub-3940256099942544/9214589741",
-            "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-            "startapp_app_id": "0",
-            "unity_banner_id": "banner",
-            "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
-            "ironsource_app_key": "85460dcd",
-            "fan_interstitial_id": "YOUR_PLACEMENT_ID",
-            "ad_manager_banner_id": "/6499/example/banner",
-            "ad_manager_native_id": "/6499/example/native",
-            "ironsource_banner_id": "DefaultBanner",
-            "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-            "unity_interstitial_id": "video",
-            "ad_manager_app_open_id": "/6499/example/app-open",
-            "applovin_max_banner_id": "0",
-            "applovin_max_app_open_id": "0",
-            "interstitial_ad_interval": 2,
-            "ad_manager_interstitial_id": "/6499/example/interstitial",
-            "ironsource_interstitial_id": "DefaultInterstitial",
-            "applovin_max_interstitial_id": "0",
-            "applovin_max_native_manual_id": "0",
-            "applovin_discovery_mrec_zone_id": "0",
-            "applovin_discovery_banner_zone_id": "0",
-            "applovin_discovery_interstitial_zone_id": "0"
-        }
-    ],
-    "radio": [
-        {
-            "auto_play": "true",
-            "radio_url": "https://c22.radioboss.fm:18040/stream",
-            "radio_name": "EMC Radio",
-            "radio_genre": "The Voice of Abundance",
-            "song_metadata": "true",
-            "image_album_art": "false",
-            "radio_image_url": "https://i.ibb.co/Z60JV7Lt/emc-logo-500.jpg",
-            "radio_background": "false",
-            "radio_background_url": "https://i.ibb.co/HLPggmF9/radio-background.jpg",
-            "blur_radio_background": "true",
-            "image_album_art_dynamic_background": "true"
-        }
-    ],
-    "video": [
-        {
-            "channel_url": "https://www.youtube.com/channel/UCaw5bydxwBSQgxxFWJdVjOA/live",
-            "channel_name": "EBN Network",
-            "channel_source": "youtube",
-            "channel_thumbnail": "https://i.ibb.co/wZWgwzCn/ebn.jpg",
-            "channel_description": "<p>Welcome to Eden Broadcasting Network.</p>",
-            "channel_vast_ads_tag_url": "https://stream.hydeinnovations.com/tvwest-flussonic/tracks-v2a1/mono.m3u8"
-        }
-    ],
-    "socials": [
-        {
-            "social_url": "https://solodroid.net?target=external",
-            "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_web.png",
-            "social_name": "Website"
-        },
-        {
-            "social_url": "https://facebook.com/solodroid.net?target=custom-tabs",
-            "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_facebook.png",
-            "social_name": "Facebook"
-        },
-        {
-            "social_url": "https://twitter.com/solodroiddev?target=custom-tabs",
-            "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_twitter.png",
-            "social_name": "Twitter"
-        },
-        {
-            "social_url": "https://instagram.com/solodroid.dev?target=custom-tabs",
-            "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_instagram.png",
-            "social_name": "Instagram"
-        }
-    ],
-    "webview": [
-        {
-            "web_url": "https://edenmiracleministries.org/resources/",
-            "web_toolbar": "false"
-        }
-    ],
-    "settings": [
-        {
-            "app_status": "1",
-            "redirect_url": "",
-            "more_apps_url": "https://codecanyon.net/category/mobile/android?sort=sales&term=solodroid#content",
-            "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
-            "show_social_menu_on_radio_page": "true",
-            "show_social_menu_on_video_page": "false"
-        }
-    ]
+  "ads": [
+    {
+      "main_ads": "admob",
+      "ad_status": "0",
+      "backup_ads": "none",
+      "fan_banner_id": "YOUR_PLACEMENT_ID",
+      "fan_native_id": "YOUR_PLACEMENT_ID",
+      "unity_game_id": "4089993",
+      "admob_banner_id": "ca-app-pub-3940256099942544/9214589741",
+      "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+      "startapp_app_id": "0",
+      "unity_banner_id": "banner",
+      "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
+      "ironsource_app_key": "85460dcd",
+      "fan_interstitial_id": "YOUR_PLACEMENT_ID",
+      "ad_manager_banner_id": "/6499/example/banner",
+      "ad_manager_native_id": "/6499/example/native",
+      "ironsource_banner_id": "DefaultBanner",
+      "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "unity_interstitial_id": "video",
+      "ad_manager_app_open_id": "/6499/example/app-open",
+      "applovin_max_banner_id": "0",
+      "applovin_max_app_open_id": "0",
+      "interstitial_ad_interval": 2,
+      "ad_manager_interstitial_id": "/6499/example/interstitial",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "applovin_max_interstitial_id": "0",
+      "applovin_max_native_manual_id": "0",
+      "applovin_discovery_mrec_zone_id": "0",
+      "applovin_discovery_banner_zone_id": "0",
+      "applovin_discovery_interstitial_zone_id": "0"
+    }
+  ],
+  "radio": [
+    {
+      "auto_play": "true",
+      "radio_url": "https://c22.radioboss.fm:18040/stream",
+      "radio_name": "EMC Radio",
+      "radio_genre": "The Voice of Abundance",
+      "song_metadata": "true",
+      "image_album_art": "false",
+      "radio_image_url": "https://i.ibb.co/Z60JV7Lt/emc-logo-500.jpg",
+      "radio_background": "false",
+      "radio_background_url": "https://i.ibb.co/HLPggmF9/radio-background.jpg",
+      "blur_radio_background": "true",
+      "image_album_art_dynamic_background": "true"
+    }
+  ],
+  "video": [
+    {
+      "channel_url": "https://www.youtube.com/channel/UCaw5bydxwBSQgxxFWJdVjOA/live",
+      "channel_name": "EBN Network",
+      "channel_source": "youtube",
+      "channel_thumbnail": "https://i.ibb.co/wZWgwzCn/ebn.jpg",
+      "channel_description": "<p>Welcome to Eden Broadcasting Network.</p>",
+      "channel_vast_ads_tag_url": "https://strea.hydeinnovations.com/tvwest-flussonic/tracks-v2a1/mono.m3u8"
+    }
+  ],
+  "socials": [
+    {
+      "social_url": "https://edenmiracleministries.org?target=external",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_web.png",
+      "social_name": "Website"
+    },
+    {
+      "social_url": "https://www.facebook.com/edenmcm?target=custom-tabs",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_facebook.png",
+      "social_name": "Facebook"
+    },
+    {
+      "social_url": "https://wa.link/myk83u?target=custom-tabs",
+      "social_icon": "https://i.ibb.co/b5D0L05j/whatsapp-3.png",
+      "social_name": "Whatsapp"
+    },
+    {
+      "social_url": "https://www.youtube.com/@emcchurch?target=custom-tabs",
+      "social_icon": "https://i.ibb.co/bq46hTD/youtube-3.png",
+      "social_name": "Youtube"
+    }
+  ],
+  "webview": [
+    {
+      "web_url": "https://edenmiracleministries.org/resources/",
+      "web_toolbar": "true"
+    }
+  ],
+  "settings": [
+    {
+      "app_status": "1",
+      "redirect_url": "",
+      "more_apps_url": "https://codecanyon.net/category/mobile/android?sort=sales&term=solodroid#content",
+      "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
+      "show_social_menu_on_radio_page": "true",
+      "show_social_menu_on_video_page": "false"
+    }
+  ]
 }
